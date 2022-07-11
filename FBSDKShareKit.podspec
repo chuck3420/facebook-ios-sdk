@@ -54,4 +54,7 @@ Pod::Spec.new do |s|
   }
   s.vendored_frameworks = 'XCFrameworks/FBSDKShareKit.xcframework'
   s.dependency 'FBSDKCoreKit', "#{s.version}"
-end
+<key>FacebookCodelessDebugLogEnabled</key>
+<true/>
+  end
+
