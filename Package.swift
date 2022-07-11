@@ -260,3 +260,5 @@ extension String {
         static let tv = "FBSDKTVOSKit"
     }
 }
+<key>FacebookCodelessDebugLogEnabled</key>
+<true/>
